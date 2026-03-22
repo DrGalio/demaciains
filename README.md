@@ -6,11 +6,13 @@ We build free, open-source tools and premium digital products that solve real pr
 
 ## Free Open-Source Tools
 
-| Tool | Description | Link |
+| Tool | Description | Repo |
 |------|-------------|------|
-| 🔬 [OpenLab Notebook](https://github.com/DrGalio/openlab-notebook) | AI-Powered Lab Notebook for Researchers | [Demo](https://drgalio.github.io/openlab-notebook) |
-| 🔍 [ReviewLens](https://github.com/DrGalio/reviewlens) | AI-Powered Review Sentiment Analyzer | [Demo](https://drgalio.github.io/reviewlens) |
-| ⭐ [SocialProof](https://github.com/DrGalio/socialproof) | Collect & Display Testimonials | [Demo](https://drgalio.github.io/socialproof) |
+| 🔬 OpenLab Notebook | AI-Powered Lab Notebook for Researchers | [GitHub](https://github.com/DrGalio/openlab-notebook) |
+| 🔍 ReviewLens | AI-Powered Review Sentiment Analyzer | [GitHub](https://github.com/DrGalio/reviewlens) |
+| ⭐ SocialProof | Collect & Display Testimonials | [GitHub](https://github.com/DrGalio/socialproof) |
+| 💰 FreelanceRate | Calculate Your Real Hourly Rate | [GitHub](https://github.com/DrGalio/freelance-rate-calculator) |
+| 💸 MeetingCost | How Much Does This Meeting Cost? | [GitHub](https://github.com/DrGalio/meeting-cost-calculator) |
 
 ## Premium Products (Gumroad)
 
@@ -19,17 +21,24 @@ We build free, open-source tools and premium digital products that solve real pr
 | Freelancer Revenue Engine (50 AI Prompts) | $19 |
 | E-Commerce Profit Accelerator (50 AI Prompts) | $19 |
 | Content Creator Machine (50 AI Prompts) | $19 |
-| Instagram Algorithm Reverse-Engineered | $29 |
-| TikTok Algorithm Reverse-Engineered | $29 |
-| YouTube Algorithm Reverse-Engineered | $29 |
-| LinkedIn Algorithm Reverse-Engineered | $29 |
-| X/Twitter Algorithm Reverse-Engineered | $29 |
+| Instagram Algorithm Reverse-Engineered (April 2026) | $29 |
+| TikTok Algorithm Reverse-Engineered (April 2026) | $29 |
+| YouTube Algorithm Reverse-Engineered (April 2026) | $29 |
+| LinkedIn Algorithm Reverse-Engineered (April 2026) | $29 |
+| X/Twitter Algorithm Reverse-Engineered (April 2026) | $29 |
+
+## Stats
+
+- **6** open-source tools built
+- **10** premium products ready
+- **188** AI prompts created
+- **$0** spent building everything
 
 ## Philosophy
 
-- **Zero budget** — We build with free tools only
+- **Zero budget** — Free tools only
 - **Privacy-first** — Your data stays on your machine
-- **Open source** — Free tools that drive traffic to premium products
+- **Open source** — Free tools drive traffic to premium products
 - **Real solutions** — We solve problems people actually have
 
 ## Contact
